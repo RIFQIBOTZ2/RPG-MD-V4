@@ -27,32 +27,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
-global.swb = 'https://'
+global.sig = 'https://instagram.com/shopgame_reysastore/'
+global.syt = 'https://wa.me//6289684271435'
+global.sgh = 'https://instagram.com/shopgame_reysastore/'
+global.sgc = 'https://chat.whatsapp.com/EAiIcqThL7Q1hY2rRr9XkR'
+global.swa = 'https://wa.me//6289684271435'
+global.swb = 'https://wa.me//6289684271435'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
-global.povo = '-'
-global.pgopay = '088279268363'
+global.pdana = 'https://a.uguu.se/glaGvldk.jpg'
+global.povo = 'https://a.uguu.se/GSNZmRkJ.jpg'
+global.pgopay = 'https://a.uguu.se/PJARRcKr.jpg'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorown = '6285624519956'
+global.namebot = 'ReysaOfficialBotZz '
+global.nameown = 'REYSA STORE'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6285643112659'],
+  ['6285624519956', 'REYSA STORE', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +97,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'ReysaOfficialBotZz  | By REYSA STORE' //Main Watermark
+global.wm2 = 'REYSA STORE'
+global.wm3 = 'ReysaOfficialBotZz  | By REYSA STORE'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `ReysaOfficialBotZz  | ʙʏ ${global.nameown}`
+global.author = 'REYSA STORE' 
+global.packname = 'REYSA STORE'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -116,13 +117,13 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *REYSA STORE* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nameowner = 'REYSA STORE'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.nomorowner = 'wa.me/6285624519956'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
