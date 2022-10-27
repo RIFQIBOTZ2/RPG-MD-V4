@@ -80,8 +80,6 @@ const listMessage = {
 │▸ *ᴀɢᴇ:* ${age} ʏᴇᴀʀs
 │▸ *sɴ:* ${sn}
 ╰═┅═━––––––๑
-
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: ᴹᴿ᭄ REYSA STORE ×፝֟͜×
 `
   let buttonMessage= {
 'document':{'url':'https://youtu.be/pwLZpdfO8AU'},
@@ -98,7 +96,7 @@ const listMessage = {
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://telegra.ph/file/493cafe60d56273d32a20.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/81744d55b7d078291767f.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/pwLZpdfO8AU'}},
 'caption':cap,
 'footer':botdate,
@@ -115,4 +113,3 @@ handler.tags = ['xp']
 handler.command = /^(daftar|verify|reg(ister)?)$/i
 
 export default handler
-ll
