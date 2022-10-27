@@ -109,11 +109,11 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/42c3d997fbe8ad26105fc.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/42c3d997fbe8ad26105fc.jpg'
-global.giflogo = 'https://telegra.ph/file/42c3d997fbe8ad26105fc.jpg'
-global.giflogo2 = 'https://telegra.ph/file/42c3d997fbe8ad26105fc.jpg.jpg'
-global.thumbs = ['https://telegra.ph/file/42c3d997fbe8ad26105fc.jpg']
+global.thumb = 'https://telegra.ph/file/81744d55b7d078291767f.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/81744d55b7d078291767f.jpg'
+global.giflogo = 'https://telegra.ph/file/81744d55b7d078291767f.jpg'
+global.giflogo2 = 'https://telegra.ph/file/81744d55b7d078291767f.jpg'
+global.thumbs = ['https://telegra.ph/file/81744d55b7d078291767f.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
