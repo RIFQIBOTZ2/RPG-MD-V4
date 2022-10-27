@@ -11,17 +11,12 @@ let handler = async (m, { conn, usedPrefix }) => {
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
   let vn = `https://github.com/saipulanuar/Api-Github/raw/main/audio/Donasiku.mp3`
   conn.sendButton(m.chat, `
-┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
-┃✾ Gopay  [088279268363]
-┃✾ Dana  [088279268363]
-┃✾ Saweria  [https://saweria.co/raraharsita2]
-┗━━━━ꕥ
-┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6288279268363
-┃ _Hasil donasi akan digunakan buat sewa_
-┃ _atau beli *RDP/VPS* agar bot bisa jalan_
-┃ _24jam tanpa kendala_
-┗━━━━ꕥ
+https://a.uguu.se/glaGvldk.jpg
+DANA
+https://a.uguu.se/PJARRcKr.jpg
+GOPAY
+https://a.uguu.se/GSNZmRkJ.jpg
+ALL PAY AJA NICH
 `.trim(), wm, [['Owner',`/owner`]],m) // Tambah sendiri kalo mau
 conn.sendFile(m.chat, vn, 'haori.mp3', null, m, true, {
 type: 'audioMessage', 
