@@ -17,7 +17,7 @@ Umur: ${umurowner}
 Asal: ${asalowner}
 Status: ${pacarowner}
 
-Nomor: ${nomorowner}
+Nomor: wa.me/6289684271435
 
 ${botdate}
 `
